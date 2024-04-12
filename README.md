@@ -1,4 +1,10 @@
-Images built for klipper 0.12.x
+Why?
+- Because the original mks robin nano 1.2 is semi-bricked and cannot accept upgrades via sd. This seems to be a common issue as I experienced it on two printers of the same model, and there are few references online.
+- Support for tmc2209 with serial connection available.
+- 2 PWM channels for fans.
+- A significantly wider range of options in terms of connectivity.
+
+Images have been built for klipper 0.12.x
 
 Useful references:
 
