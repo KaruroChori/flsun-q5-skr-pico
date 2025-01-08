@@ -1,3 +1,9 @@
+
+> [!TIP]
+> If you find yourself with the same board not working after trying to update from an older version of klipper, fret not!  
+> Replacing it is not needed, you can just buy an STLINK programmer from aliexpress, and restore the original firmware before upgrading klipper.  
+> It is likely some of the older versions had the bootloader for this board broken.
+
 Why?
 - Because the original mks robin nano 1.2 is semi-bricked and cannot accept upgrades via sd. This seems to be a common issue as I experienced it on two printers of the same model, and there are few references online.
 - Support for tmc2209 with serial connection available.
